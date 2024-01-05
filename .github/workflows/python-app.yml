@@ -21,5 +21,5 @@ jobs:
         image: yoonseo111/github-actions-app
         tags: v3, latest
         registry: docker.io
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: yoonseo111
+        password: dckr_pat_kCs7b7BdAlrlrc-mqCmalGEg1wo
